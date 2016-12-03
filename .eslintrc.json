@@ -12,5 +12,8 @@
   "globals": {
     "atom": true,
     "waitsForPromise": true
+  },
+  "rules": {
+    "space-before-function-paren": [0]
   }
 }
