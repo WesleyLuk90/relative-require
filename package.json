@@ -40,5 +40,10 @@
     "eslint-plugin-standard": "^2.0.0",
     "jasmine": "^2.4.1",
     "jasmine-node": "^1.14.5"
+  },
+  "apmInstallSource": {
+    "type": "git",
+    "source": "https://github.com/WesleyLuk90/relative-require",
+    "sha": "5396feab391d6f4375a3e5dd8c2543e133e63cdc"
   }
 }
